@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Figma-assignment/static/css/main.4485ed76.css",
+    "main.js": "/Figma-assignment/static/js/main.6c103a62.js",
+    "static/media/blockchain.png": "/Figma-assignment/static/media/blockchain.c86c19886626ec8523ad.png",
+    "static/media/right.jpeg": "/Figma-assignment/static/media/right.fdaa49737e24272732b7.jpeg",
+    "static/media/One.jpeg": "/Figma-assignment/static/media/One.3b6f0c148e5062bd5e55.jpeg",
+    "static/media/Five.jpeg": "/Figma-assignment/static/media/Five.2e2da6e7ed5edf94ac23.jpeg",
+    "static/media/Three.jpeg": "/Figma-assignment/static/media/Three.fb4899ec64cddb89d77c.jpeg",
+    "static/media/Query.jpeg": "/Figma-assignment/static/media/Query.0a26490033a66e912e80.jpeg",
+    "static/media/Biggest1.jpeg": "/Figma-assignment/static/media/Biggest1.3ccf6d88f6fcc574c20b.jpeg",
+    "static/media/Production.jpeg": "/Figma-assignment/static/media/Production.2d2d5ad5d402ddb622aa.jpeg",
+    "static/media/Development.jpeg": "/Figma-assignment/static/media/Development.df34170eea550e3300c4.jpeg",
+    "static/media/Designing.jpeg": "/Figma-assignment/static/media/Designing.2e74f920aa456b5e5ae0.jpeg",
+    "static/media/Left.jpeg": "/Figma-assignment/static/media/Left.70f8332abfca8d75be1d.jpeg",
+    "static/media/Bgimg.jpeg": "/Figma-assignment/static/media/Bgimg.c2b0fa080c47a7c81efa.jpeg",
+    "static/media/Formback.jpeg": "/Figma-assignment/static/media/Formback.4020b667656d26f9e604.jpeg",
+    "static/media/Four.jpeg": "/Figma-assignment/static/media/Four.c8618d1a1983c74b28b4.jpeg",
+    "static/media/Formpic.jpeg": "/Figma-assignment/static/media/Formpic.9ccc277b2a2ce661e618.jpeg",
+    "static/media/Two.jpeg": "/Figma-assignment/static/media/Two.006c6b39c0f053ffbdc8.jpeg",
+    "static/media/Tree.jpeg": "/Figma-assignment/static/media/Tree.99eed3770589f7477379.jpeg",
+    "static/media/code.png": "/Figma-assignment/static/media/code.096cf19696cb8361c56d.png",
+    "static/media/Chat.jpeg": "/Figma-assignment/static/media/Chat.999e21cd375ff1e3693f.jpeg",
+    "static/media/Profile.jpeg": "/Figma-assignment/static/media/Profile.87b2a5c60b885ed3e303.jpeg",
+    "static/media/DB.png": "/Figma-assignment/static/media/DB.f333bc699f051c4aa0e2.png",
+    "index.html": "/Figma-assignment/index.html",
+    "main.4485ed76.css.map": "/Figma-assignment/static/css/main.4485ed76.css.map",
+    "main.6c103a62.js.map": "/Figma-assignment/static/js/main.6c103a62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4485ed76.css",
+    "static/js/main.6c103a62.js"
+  ]
+}
