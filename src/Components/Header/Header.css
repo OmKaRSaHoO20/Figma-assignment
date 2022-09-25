@@ -1,0 +1,84 @@
+.Header{
+    display: flex;
+}
+
+.First{
+    background-image: url("./Left.jpeg");
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 835.51px;
+    height: 90vh;
+    left: 0px;
+    top: 0px;
+}
+
+.Left-up{
+    padding-top: 3rem;
+    display: flex;
+    padding-left: 7rem;
+}
+
+.Left-up h2{
+    margin-left: 1rem;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 50px;
+    letter-spacing: 0.3px;
+}
+
+.Left-mid{
+    display: grid;
+    margin-top: 4rem;
+    padding-left: 7rem;
+}
+.Left-mid h1{
+    color: white;
+    margin-top: 0;
+    font-size: 64px;
+}
+.Left-mid p{
+    color: white;
+    margin-top: 0;
+    font-size: 24px;
+}
+.Left-mid button{
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    margin-left: 10px;
+    cursor:pointer;
+    font-weight: bold;
+    border-radius: 5rem;
+    height: 3rem;
+    width: 15rem;
+}
+
+.oneflex{
+    display: flex;
+}
+
+.second{
+    width: 50vw;
+}
+.Nav{
+    margin-top: 85px;
+    margin-bottom: 25px;
+    color: black;
+    width: 25vw;
+    margin-left: 70rem;
+}
+.Nav a{
+    font-weight: 700;
+    font-size: 12px;
+    text-decoration: none;
+    padding: 20px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+#head-img{
+    margin-left: 52rem;
+    width: 40vw;
+    overflow: hidden;
+}
+

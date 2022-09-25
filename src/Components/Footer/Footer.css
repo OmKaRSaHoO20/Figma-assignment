@@ -1,0 +1,30 @@
+body{
+    font-family: Work Sans;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Footer-Container{
+    color: white;
+    display: flex;
+    background: #0E0E2C;
+}
+.foot{
+    display: grid;
+    padding-left: 3rem;
+}
+.foot h3{
+    font-size: 24px;
+}
+.foot a{
+    /* padding: 7px 0px; */
+    text-decoration: none;
+    color: white;
+}
+svg{
+    opacity: .3;
+}
+.svg{
+    padding-right: 46rem;
+}

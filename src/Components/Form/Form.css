@@ -1,0 +1,67 @@
+.form-flex{
+    display: flex;
+}
+
+h3{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28.15px;
+}
+p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22.15px;
+}
+#leftimg{
+    margin-top: 5rem;
+    width: 85%;
+    height: 40vw;
+    margin-right: 25rem;
+}
+.icons{
+    display: flex;
+    padding: 0;
+}
+.icons p{
+    cursor: pointer;
+    font-size: 35px;
+    width: 2.5rem;
+}
+
+.Form{
+    margin: 100px;
+}
+
+.gridform{
+    color: white;
+    padding: 52px;
+    width: 50vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    background-image: url("./Formback.jpeg");
+}
+.gridform p{
+    padding: 0;
+}
+.gridform h3{
+    padding: 0;
+}
+.gridform button{
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 15px 50px;
+    color: white;
+    font-weight: 700;
+    background: #0E0E2C;
+    border-radius: 4px;
+    border: 0;
+    margin-top: 40px;
+}
+form input{
+    padding: 5px;
+}
+form{
+    width: 100%;
+    margin-top: 40px;
+}

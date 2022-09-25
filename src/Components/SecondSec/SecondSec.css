@@ -1,0 +1,56 @@
+.Second-Container{
+    width: 90vw;
+    padding-left: 100px;
+}
+
+.flexcontainer{
+    display: flex;
+}
+
+.Left-2nd{
+    width: 50vw;
+}
+
+.Right-2nd{
+    width: 40vw;
+    column-gap: 5rem;
+    row-gap: 5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#line{
+    Width: 100px;
+    height: 5px;
+    background-color:  #F050BE;
+}
+#col1{
+    Width: 100px;
+    height: 5px;
+    background-color:  #F050BE;
+}
+#col2{
+    Width: 100px;
+    height: 5px;
+    background-color: black;
+}
+#col3{
+    Width: 100px;
+    height: 5px;
+    background-color:  black;
+}
+#col4{
+    Width: 100px;
+    height: 5px;
+    background-color:  #F4C751;
+}
+#col5{
+    Width: 100px;
+    height: 5px;
+    background-color:  #4B4DED;
+}
+#col6{
+    Width: 100px;
+    height: 5px;
+    background-color:  gray;
+}
